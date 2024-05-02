@@ -57,7 +57,7 @@
     "postcss-import-ext-glob": "^2.0.1",
     "postcss-js": "^4.0.0",
     "rimraf": "^5.0.0",
-    "sanitize-html": "^2.7.2",
+    "sanitize-html": "^2.12.1",
     "slugify": "^1.6.5"
   }
 }
